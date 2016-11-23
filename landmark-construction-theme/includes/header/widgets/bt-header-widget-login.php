@@ -1,0 +1,1 @@
+<a href="<?php echo wp_login_url(); ?>"><?php echo esc_html__("Login", "landmark-construction-theme")." or ".esc_html__("Register","landmark-construction-theme");?></a>

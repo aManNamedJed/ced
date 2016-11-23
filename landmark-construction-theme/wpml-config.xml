@@ -1,0 +1,27 @@
+<wpml-config>
+	<custom-fields>
+	 <custom-field action="ignore">_menu_item_add_mega_menu</custom-field>
+	 <custom-field action="ignore">_menu_item_classes</custom-field>
+	 <custom-field action="ignore">_menu_item_extra_class</custom-field>
+	 <custom-field action="ignore">_menu_item_mega_menu_background_color</custom-field>
+	 <custom-field action="ignore">_menu_item_mega_menu_background_image</custom-field>
+	 <custom-field action="ignore">_menu_item_mega_menu_background_position</custom-field>
+	 <custom-field action="ignore">_menu_item_mega_menu_background_repeat</custom-field>
+	 <custom-field action="ignore">_menu_item_mega_menu_style</custom-field>
+	 <custom-field action="ignore">_menu_item_menu_item_parent</custom-field>
+	 <custom-field action="ignore">_menu_item_object</custom-field>
+	 <custom-field action="ignore">_menu_item_object_id</custom-field>
+	 <custom-field action="ignore">_menu_item_orphaned</custom-field>
+	 <custom-field action="ignore">_menu_item_target</custom-field>
+	 <custom-field action="ignore">_menu_item_type</custom-field>
+	 <custom-field action="ignore">_menu_item_url</custom-field>
+	 <custom-field action="ignore">_menu_item_widgetized_menu_area</custom-field>
+	 <custom-field action="ignore">_menu_item_xfn</custom-field>	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+	</custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio-category</taxonomy>
+    </taxonomies>
+</wpml-config>

@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'landmark';
+    src:    url('../fonts/landmark.eot?qxkndj');
+    src:    url('../fonts/landmark.eot?qxkndj#iefix') format('embedded-opentype'),
+        url('../fonts/landmark.ttf?qxkndj') format('truetype'),
+        url('../fonts/landmark.woff?qxkndj') format('woff'),
+        url('../fonts/landmark.svg?qxkndj#landmark') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="landicon-"], [class*=" landicon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'landmark' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.landicon-building:before {
+    content: "\e900";
+}
+.landicon-home:before {
+    content: "\e901";
+}
+.landicon-machine:before {
+    content: "\e902";
+}
+.landicon-palette:before {
+    content: "\e903";
+}
+.landicon-wall:before {
+    content: "\e904";
+}
+.landicon-worker:before {
+    content: "\e905";
+}
+

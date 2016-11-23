@@ -1,0 +1,18 @@
+/*
+Theme Name:     Landmark Construction Theme Child
+Theme URI: 		themeforest.net/user/bliccaThemes
+Description:    Child theme for Landmark Construction Theme
+Author:         bliccaThemes
+Template:       landmark-construction-theme
+Version:        1.0
+*/
+
+
+/*
+Start adding your own custom CSS rules.
+*/
+
+.contact-form-style-5 input[type="submit"].wpcf7-form-control,
+.contact-form-style-1 input[type="button"].wpcf7-form-control {
+  background-color: #6aa533;
+}
